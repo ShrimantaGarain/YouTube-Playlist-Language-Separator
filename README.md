@@ -119,9 +119,3 @@ text---
 3. Paste the above content into `README.md`
 4. Commit & push
 
-Want me to also create:
-- A `.gitignore` file?
-- A `requirements.txt`?
-- Or add screenshots section with example images?
-
-Just say the word and I’ll generate them instantly! 🔥
