@@ -111,11 +111,5 @@ MIT License — feel free to use, modify, and share.
 
 Made with ❤️ for the Desi music community
 Star the repo if it helped you organize your playlists! 🌟
-text---
 
-**How to use it:**
-1. Create a new GitHub repo (suggested name: `youtube-playlist-language-separator` or `desi-playlist-language-detector`)
-2. Add the script as `youtube_playlist_language_classifier.py`
-3. Paste the above content into `README.md`
-4. Commit & push
 
